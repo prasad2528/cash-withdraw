@@ -1,0 +1,82 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #c4c4c4;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+}
+.card-container {
+  padding: 30px;
+  background-color: #150b3e;
+  background-size: cover;
+  border-radius: 15px;
+  width: 40%;
+}
+.profile-container {
+  display: flex;
+}
+.profile {
+  height: 80px;
+  width: 80px;
+  padding-left: 30px;
+  padding-top: 20px;
+  border-radius: 50%;
+  color: #7c3aed;
+  font-size: 22px;
+  background-color: #c7d2fe;
+  margin-right: 30px;
+}
+.heading {
+  color: #c4c4c4;
+  font-size: 25px;
+  padding-top: 24px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+.balance-cont {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+.balance-heading {
+  color: #382f5a;
+  font-size: 25px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+.balance-check {
+  color: #c4c4c4;
+  font-size: 30px;
+  font-weight: 500;
+}
+.rupees {
+  color: #382f5a;
+  font-size: 19px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+.withdraw {
+  color: #c4c4c4;
+  font-weight: 500;
+  font-family: 'Roboto';
+  margin-left: 20px;
+  font-size: 30px;
+}
+.instruction {
+  color: #382f5a;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  margin-left: 20px;
+}
+.container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  text-align: center;
+}

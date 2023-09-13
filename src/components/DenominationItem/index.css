@@ -1,0 +1,17 @@
+.list-container {
+  list-style-type: none;
+  margin-bottom: 20px;
+  width: 48%;
+}
+button {
+  height: 40px;
+  width: 150px;
+  border-radius: 3px;
+  text-align: center;
+  border: 1px solid #d4d2db;
+  margin-right: 40px;
+  cursor: pointer;
+  outline: none;
+  background-color: #382f5a;
+  color: #ffffff;
+}
